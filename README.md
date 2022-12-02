@@ -6,8 +6,11 @@
 <br>
 <div style="margin: 10px 0px 10px 0px">
 
+[![¥ago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 ![¥ago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=dark)
-[![¥ago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <div style="margin: 10px 0px 10px 0px">
