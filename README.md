@@ -1,7 +1,7 @@
 
 <hr>
 
-[![yagojsantos](https://readme-typing-svg.herokuapp.com/?color=3d95b6&size=36&center=true&vCenter=true&width=1000&lines=Olá.+Eu+sou+o+¥ago.+Um+Dev+em+desenvolvimento.;)](https://git.io/typing-svg)
+[![yagojsantos](https://readme-typing-svg.herokuapp.com/?color=3d95b6&size=36&center=true&vCenter=true&width=1000&duration=7000&lines=Olá.+Eu+sou+o+¥ago.+Um+Dev+em+desenvolvimento.;)](https://git.io/typing-svg)
 <br>
 
 [![yagojsantos](https://readme-typing-svg.herokuapp.com/?color=3d95b6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+perfil!;)](https://git.io/typing-svg)
