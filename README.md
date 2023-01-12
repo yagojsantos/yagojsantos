@@ -1,37 +1,39 @@
-## Prazer, eu sou o Yago J Santos 👋
 
+<hr>
 
-#### Graduação em Gestão de TI em andamento 💻
-#### Focado em se tornar um Front-end!
-<br>
-<div style="margin: 10px 0px 10px 0px">
-
-[![¥ago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![yagojsantos](https://readme-typing-svg.herokuapp.com/?color=3d95b6&size=36&center=true&vCenter=true&width=1000&lines=Olá.+Eu+sou+o+¥ago.+Um+Dev+em+desenvolvimento.;)](https://git.io/typing-svg)
 <br>
 
-![¥ago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=dark)
+[![yagojsantos](https://readme-typing-svg.herokuapp.com/?color=3d95b6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+perfil!;)](https://git.io/typing-svg)
+<hr>
 
+![yagojsantos](https://github.com/yagojsantos/yagojsantos/blob/main/programmer.gif)
+
+<div style="text-align:center">
+    <h3>Contato</h3>
+    <div style="display: inline-block"> 
+        <a href="mailto:yago_jesus@outlook.com.br"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/yago-de-jesus-santos-a11618196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    </div>
+</div>
+<hr>
+
+<div style="text-align:center">  
+    <h2>Status Code</h2> 
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&langs_count=8&theme=dark"/> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=dark"/>
 </div>
 
-<div style="margin: 10px 0px 10px 0px">
+<h3 style="text-align:center">Tecnologias que estudo 🤓📚</h3>
 
-### Tecnologias que estudo 🤓📚
-
-<div style="display: inline-block">
-    <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="" src="">
+<div style="text-align:center"><br>
+    <img alt="yagojsantos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+    <img alt="yagojsantos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="yagojsantos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="yagojsantos-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <br>
+    <hr>
+    <p>Graduação em Gestão de TI em andamento💻</p>
+    <p>Focado em se tornar um Dev Front-end!</p>
 </div>
-</div>
-
-<div style="margin: 10px 0px 10px 0px">
-
-### Contato
-<div style="display: inline-block">
-  
-<a href="mailto:yago_jesus@outlook.com.br"><img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yago-de-jesus-santos-a11618196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-</div>
+ <hr>
