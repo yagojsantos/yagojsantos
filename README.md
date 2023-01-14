@@ -25,8 +25,8 @@
 
 <div align="center">  
     <h2>Status Code</h2> 
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&langs_count=8&theme=dark"/> 
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=dark"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=tokyonight"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&langs_count=8&theme=tokyonight"/>     
 </div>
 
 <div align="center">
