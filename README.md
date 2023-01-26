@@ -29,8 +29,8 @@
     <img width="78%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagojsantos&langs_count=8&theme=tokyonight"/>
 </div>
 <div>
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=tokyonight"/>
-    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=yagojsantos&&theme=tokyonight"/>         
+    <img  src="https://github-readme-stats.vercel.app/api?username=yagojsantos&show_icons=false&theme=tokyonight"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yagojsantos&&theme=tokyonight"/>         
 </div>
 </div>
 
